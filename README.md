@@ -11,6 +11,7 @@
 [<img alt="Oywayten| linkedin" height="48" src="https://img.icons8.com/color/64/linkedin-circled--v1.png" width="48"/>](https://www.inkedin.com/in/vitaliy-grab-a56650142/)
 [<img alt="Oywayten| linkedin" height="48" src="https://img.icons8.com/color/64/telegram-app--v1.png" width="48"/>](https://t.me/VitaliyJVM)
 
+![](https://komarev.com/ghpvc/?username=Oywayten)
 
 <!--### Hi there 👋-->
 
