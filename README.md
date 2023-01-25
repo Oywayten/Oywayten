@@ -8,7 +8,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oywayten&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide=contribs&custom_title=Oywayten%27s%20GitHub%20Stats "Oywayten Stats")](https://github.com/Oywayten)
 
 ### Social Links
-[<img alt="Oywayten| linkedin" height="48" src="https://img.icons8.com/color/64/linkedin-circled--v1.png" width="48"/>](https://www.inkedin.com/in/vitaliy-grab-a56650142/)
+[<img alt="Oywayten| linkedin" height="48" src="https://img.icons8.com/color/64/linkedin-circled--v1.png" width="48"/>](https://www.linkedin.com/in/vitaliy-grab-a56650142/)
 [<img alt="Oywayten| linkedin" height="48" src="https://img.icons8.com/color/64/telegram-app--v1.png" width="48"/>](https://t.me/VitaliyJVM)
 
 ![](https://komarev.com/ghpvc/?username=Oywayten)
