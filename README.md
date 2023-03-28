@@ -1,7 +1,6 @@
 ### Greetings 👋
 
 🧙‍♂️ I'm Vitaliy, a Java Developer based in St-Petersburg, Russia.  
-🔭 I am currently working on interesting projects for [Job4j](https://www.job4j.ru/) and [TopJava](https://topjava.ru/topjava). 😉  
 🍧 Fun fact: My favorite ice cream flavor is pistachio.  
 💾 You can find more info about me in [my CV web page](https://drive.google.com/file/d/1S1sRy7xj41JIDkmxrpJnoO30BHo7MCf5/view?usp=share_link).
 
