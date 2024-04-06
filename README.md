@@ -5,13 +5,13 @@ In June 2023, I joined the development of an application for VTB finance and rep
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oywayten&theme=ocean_dark)
 
-### Social Links
+<!--### Social Links
 [<img alt="Oywayten| linkedin" height="48" src="https://img.icons8.com/color/64/linkedin-circled--v1.png" width="48"/>](https://www.linkedin.com/in/vitaliy-grab-a56650142/)
 [<img alt="Oywayten| linkedin" height="48" src="https://img.icons8.com/color/64/telegram-app--v1.png" width="48"/>](https://t.me/VitaliyJVM)
 
 ![](https://komarev.com/ghpvc/?username=Oywayten)
 
-<!--### Hi there 👋-->
+### Hi there 👋-->
 
 <!--
 **Oywayten/Oywayten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
