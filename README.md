@@ -1,6 +1,6 @@
 ## Hi 👋 my name is Vitaliy
 
-In June 2023, I joined the development of an application for VTB finance and reporting. In September 2023, I was promoted to the head of the Java development team.
+I am a Java developer.
 <!--💾 You can find more info about me in [my CV web page](https://drive.google.com/file/d/1S1sRy7xj41JIDkmxrpJnoO30BHo7MCf5/view?usp=share_link).
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oywayten&theme=ocean_dark)
